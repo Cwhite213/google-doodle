@@ -1,23 +1,23 @@
-/*
-  DIAGNOSTIC STYLING
+/* PRESENTATION
+* CSS: https://cssreference.io
+* Google Doodle Template:
+https://codepen.io/manikoth/pen/NNNBYe.css
 */
-#doodle{
-  margin:auto;
-  width:95%;
-  display: block;
+
+/* Diagnostic Styling */
+#stage {
+  position:relative;
 }
-#gogle {
-  transform:scale(2);
-  width:45vw;
-  margin:auto;
+
+/* Stage */
+#stage {
+width: 700px;
+height: 300px;
 }
+
 #d20 {
-  position:absolute;
-  max-width:10%;
-  
+position:absolute;
+width:105px;
+left:284px;
+bottom:85px;
 }
-#template{
-  display:block;
-  margin:30px;
-}
-/* Your Awesome Scripts */
