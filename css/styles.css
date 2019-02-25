@@ -1,12 +1,23 @@
 /*
   DIAGNOSTIC STYLING
 */
-body {
-  background: gray;
+#doodle{
+  margin:auto;
+  width:95%;
+  display: block;
 }
-
-* {
-  outline: 1px dotted black;
+#gogle {
+  transform:scale(2);
+  width:45vw;
+  margin:auto;
 }
-
+#d20 {
+  position:absolute;
+  max-width:10%;
+  
+}
+#template{
+  display:block;
+  margin:30px;
+}
 /* Your Awesome Scripts */
